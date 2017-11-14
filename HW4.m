@@ -1,6 +1,21 @@
 %HW4
 %% 
 % Problem 1. 
+% GB Comments:
+1a 100
+1b 100
+1c 100
+1d 100
+2a 100
+2b. 75 Code looks like it should work fine, but I am having difficulties getting the correct output. If you like, you can demonstrate on your computer that it works for full points. 
+3a. 100
+3b 100
+3c 100
+3d 100
+3e 100
+4a. 100
+4b. 100 
+ Overall = 98
 
 % 1. Write a function to generate an 8-bit image of size 1024x1024 with a random value 
 % of the intensity in each pixel. Call your image rand8bit.tif. 
